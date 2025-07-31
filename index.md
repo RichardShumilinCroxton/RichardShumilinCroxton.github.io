@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My Projects
+title: The Many Random Ruminations of Richard
 ---
 
-# Welcome to My Projects
+# Et Voila 
 
 - [This website](https://github.com/RichardShumilinCroxton/RichardShumilinCroxton.github.io)
 - [Options Pricing Library](https://github.com/RichardShumilinCroxton/OptionsPricingLibrary)
