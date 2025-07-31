@@ -5,4 +5,7 @@ title: My Projects
 
 # Welcome to My Projects
 
-- [Project 1](https://github.com/RichardShumilinCroxton/RichardShumilinCroxton.github.io)
+- [This website](https://github.com/RichardShumilinCroxton/RichardShumilinCroxton.github.io)
+- [Options Pricing Library](https://github.com/RichardShumilinCroxton/OptionsPricingLibrary)
+- [Agent Based Market Simulation](https://github.com/RichardShumilinCroxton/ABM)
+- [Natural language audio recordings to phonemes](https://github.com/RichardShumilinCroxton/LanguageToIPL)
